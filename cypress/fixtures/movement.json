@@ -1,0 +1,16 @@
+{
+  "conta": "Conta para saldo",
+  "id": 31436,
+  "descricao": "Movimentacao 1, calculo saldo",
+  "envolvido": "CCC",
+  "observacao": null,
+  "tipo": "REC",
+  "data_transacao": "2019-11-13T03:00:00.000Z",
+  "data_pagamento": "2019-11-13T03:00:00.000Z",
+  "valor": "3500.00",
+  "status": false,
+  "conta_id": 42079,
+  "usuario_id": 1,
+  "transferencia_id": null,
+  "parcelamento_id": null
+}
