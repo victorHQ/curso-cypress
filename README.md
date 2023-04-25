@@ -4,7 +4,7 @@ Esse repositório consta com alguns códigos do curso de cypress desenvolvido po
 
 ## Configurações do projeto
 
-> Crie um arquivo .env na raiz do projeto com o USER e PASSWORD que cadastrou no site [Barriga React](https://barrigareact.wcaquino.me/registro). Pode usar o arquivo env de exemplo e depois renomeie para .env.
+> Crie um arquivo .env na raiz do projeto com o USER e PASSWORD que cadastrou no site [Barriga React](https://barrigareact.wcaquino.me). Pode usar o arquivo env de exemplo e depois renomeie para .env.
 
 ## Como rodar o projeto?
 
